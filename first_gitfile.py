@@ -6,3 +6,5 @@ if b == 1024:
 else:
 	print "Not True"
 print "this is for temp branch"
+
+#for PC terminal
